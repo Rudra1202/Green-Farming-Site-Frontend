@@ -1,0 +1,12 @@
+.jumbotron{
+    margin-top: 4rem;
+    border: 1px solid grey;
+    box-shadow: inset 1px 1px 2px salmon;
+    padding: 2rem;
+}
+.login_box{
+    margin: 4rem 0;
+    border: 1px solid grey;
+    box-shadow: inset 1px 1px 2px salmon;
+    padding: 4rem;
+}
